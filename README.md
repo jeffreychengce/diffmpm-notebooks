@@ -1,7 +1,7 @@
 # diffmpm-notebooks
 Notebooks for https://github.com/geoelements/diffmpm
 
-Folders working with PR #27 are marked with a `- branch` tag
+Folders working with [PR #27](https://github.com/geoelements/diffmpm/pull/27) are marked with a `- branch` tag
 
 Functional Folders in order of complexity:
 - `2d_plate_1/`
