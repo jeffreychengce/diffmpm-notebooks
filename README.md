@@ -1,7 +1,7 @@
 # diffmpm-notebooks
 Notebooks for https://github.com/geoelements/diffmpm
 
-Folders working with PR #27 are marked with a `- branch` tag
+Folders working with [PR #27](https://github.com/geoelements/diffmpm/pull/27) are marked with a `- branch` tag
 
 Functional Folders in order of complexity:
 - `2d_plate_1/`
@@ -19,4 +19,5 @@ Nonfunctional Folders in order of complexity
 Folders used for debugging:
 - `2d_beam_simple_multistiffness_simple_particle/`
 - `2d_beam_simple_multistiffness_simple_particle - branch/`
+
 
